@@ -1,0 +1,1 @@
+When using curl on google.com is wasn't legible. It showed up as a big block of text with numbers, letters and symbols. Everything was in one big line with no breaks making it really hard to see where things started and where things ended.
